@@ -6,4 +6,4 @@ To reproduce the bug
 - Deploy iOS project to Similator or physical iPhone device
 - Push the listiew up. Notice the horizontal lines are now drawn all the way to the left for the top 2 rows. Sceen screenshot below.
 
-[Screenshot](images/screenshot-bug.png)
+<img src="images/screenshot-bug.png" height="640">
